@@ -1,0 +1,24 @@
+
+p{
+    width: 50%;
+    text-align: center;
+    text-decoration: line-through rgb(123, 198, 123) 5px;
+    text-transform: capitalize;
+}
+#text {
+width:50%;
+text-align: right;
+text-decoration: dotted;
+text-transform: lowercase;
+text-indent: 40px;
+letter-spacing: 5px;
+line-height: 20px;
+word-spacing: 60px;
+white-space: nowrap;
+text-shadow: 2px 2px;
+}
+#shadow{
+font-size: 80px;
+color: rgb(214, 127, 255);
+text-shadow: 4px 4px 10px pink;
+}
